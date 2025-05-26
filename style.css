@@ -1,0 +1,4 @@
+.form-control::placeholder {
+  color: #6c757d; /* Bootstrap's default gray */
+  font-style: italic; /* Optional */
+}
